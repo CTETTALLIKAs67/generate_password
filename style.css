@@ -7,7 +7,7 @@ body {
       margin: 0;
     }
 
-    .container {
+.container {
       background: #fff;
       padding: 30px;
       border-radius: 12px;
@@ -15,13 +15,13 @@ body {
       text-align: center;
     }
 
-    h1 {
+h1 {
       font-size: 20px;
       margin-bottom: 20px;
       color: #333;
     }
 
-    #password {
+#password {
       width: 100%;
       padding: 12px;
       font-size: 18px;
@@ -33,7 +33,7 @@ body {
       background: #fafafa;
     }
 
-    .row {
+.row {
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -42,14 +42,14 @@ body {
       color: #444;
     }
 
-    .row input[type="number"] {
+.row input[type="number"] {
       width: 60px;
       padding: 4px 6px;
       border: 1px solid #ccc;
       border-radius: 6px;
     }
 
-    button {
+button {
       width: 100%;
       padding: 12px;
       font-size: 16px;
@@ -60,6 +60,6 @@ body {
       cursor: pointer;
     }
 
-    button:hover {
+button:hover {
       background: #3a63d6;
     }
